@@ -7,6 +7,10 @@ RUN apt-get update && \
     curl \
     zip \
     unzip \
+    build-essential \
+    libssl-dev \
+    libffi-dev \
+    zlib1g-dev \
     && apt-get clean
 
 # python 3.10
@@ -43,3 +47,10 @@ RUN unzip gradle.zip -d /opt/gradle \
     && ln -s /opt/gradle/gradle-8.13/bin/gradle /usr/local/bin/gradle \
     && rm gradle.zip \
     && gradle --version
+
+WORKDIR /app
+
+COPY build.gradle /app/
+RUN gradle build
+
+CMD [ "java", "HelloWorld"]

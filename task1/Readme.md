@@ -1,5 +1,7 @@
 Task 1: Docker
 
+Link to image:
+
 Create a Docker image:
 
 - based on Ubuntu 24.04
@@ -15,6 +17,5 @@ The image should be pushed to Docker Hub, and the link to the image should be ad
 
 ######
 
-######
-
 docker build -t zezuul/task1 .
+docker push zezuul/task1:latest
