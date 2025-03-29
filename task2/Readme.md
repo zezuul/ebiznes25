@@ -13,3 +13,7 @@ Należy stworzyć aplikację na frameworku Play w Scali 3.
 
 Kontrolery mogą bazować na listach zamiast baz danych. CRUD: show all,
 show by id (get), update (put), delete (delete), add (post).
+
+---
+
+Scala: https://docs.scala-lang.org/
