@@ -15,17 +15,18 @@
 
 # Zadanie 2: Scala 3 - framework Play
 
-🚧 **3.0 Należy stworzyć kontroler do Produktów** [Link do commita 1]()
+✅ **3.0 Należy stworzyć kontroler do Produktów** [Link do commita 1]()
 
-🚧 **3.5 Do kontrolera należy stworzyć endpointy zgodnie z CRUD - dane pobierane z listy** [Link do commita 1]()
+✅ **3.5 Do kontrolera należy stworzyć endpointy zgodnie z CRUD - dane pobierane z listy** [Link do commita 1]()
 
-🚧 **4.0 Należy stworzyć kontrolery do Kategorii oraz Koszyka + endpointy zgodnie z CRUD** [Link do commita 2]()
+✅ **4.0 Należy stworzyć kontrolery do Kategorii oraz Koszyka + endpointy zgodnie z CRUD** [Link do commita 2]()
 
 🚧 **4.5 Należy aplikację uruchomić na dockerze (stworzyć obraz) oraz dodać skrypt uruchamiający aplikację via ngrok** [Link do commita 2]()
 
 🚧 **5.0 Należy dodać konfigurację CORS dla dwóch hostów dla metod CRUD** [Link do commita 2]()
 
 **Kod:** [folder](https://github.com/zezuul/ebiznes25/tree/main/task2)
+**Nagranie:** [demo](https://github.com/zezuul/ebiznes25/tree/main/demos/task2.webm)
 
 # Zadanie 3: Kotlin
 
