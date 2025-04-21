@@ -41,6 +41,22 @@
 
 **Kod:** [folder](https://github.com/zezuul/ebiznes25/tree/main/task3)
 
+
+# Zadanie 4: Wzorce strukturalne - Echo (Go)
+
+🚧 **3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie miała kontroler Pogody, która pozwala na pobieranie danych o pogodzie(lub akcjach giełdowych)** [Link do commita 1]()
+
+🚧 **3.5 Należy stworzyć model Pogoda (lub Giełda) wykorzystując gorm, a dane załadować z listy przy uruchomieniu** [Link do commita 1]()
+
+🚧 **4.0 Należy stworzyć klasę proxy, która pobierze dane z serwisu zewnętrznego podczas zapytania do naszego kontrolera** [Link do commita 2]()
+
+🚧 **4.5 Należy zapisać pobrane dane z zewnątrz do bazy danych** [Link do commita 2]()
+
+🚧 **5.0 Należy rozszerzyć endpoint na więcej niż jedną lokalizację (Pogoda), lub akcje (Giełda) zwracając JSONa** [Link do commita 2]()
+
+**Kod:** [folder]()
+
+
 ---
 
 ✅ done
