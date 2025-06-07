@@ -82,8 +82,8 @@
 
 ❌ **5.0 wym5** [Link do commita 2]()
 
-**Kod:** [folder]()
-**Nagranie:** [folder]()
+**Kod:** [folder](https://github.com/zezuul/ebiznes25/tree/main/task8)
+**Nagranie:** [folder](https://github.com/zezuul/ebiznes25/blob/main/demos/task8.mp4)
 
 ---
 
