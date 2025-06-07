@@ -42,7 +42,6 @@
 
 **Kod:** [folder](https://github.com/zezuul/ebiznes25/tree/main/task3)
 
-
 # Zadanie 4: Wzorce strukturalne - Echo (Go)
 
 ✅ **3.0 Należy stworzyć aplikację we frameworki echo w j. Go, która będzie miała kontroler Pogody, która pozwala na pobieranie danych o pogodzie(lub akcjach giełdowych)** [Link do commita 1](https://github.com/zezuul/ebiznes25/commit/e08490a90ff9711da8de76dff71cf5436bec472c)
@@ -70,6 +69,21 @@
 🚧 **5.0 Należy wykorzystać axios’a oraz dodać nagłówki pod CORS** [Link do commita 2]()
 
 **Kod:** [folder]()
+
+# Zadanie 8: Oauth2
+
+✅ **3.0 logowanie przez aplikację serwerową (bez Oauth2)** [Link do commita]()
+
+✅ **3.5 rejestracja przez aplikację serwerową (bez Oauth2)** [Link do commita]()
+
+✅ **4.0 logowanie via Google OAuth2** [Link do commita]()
+
+❌ **4.5 wym4** [Link do commita 2]()
+
+❌ **5.0 wym5** [Link do commita 2]()
+
+**Kod:** [folder]()
+**Nagranie:** [folder]()
 
 ---
 
