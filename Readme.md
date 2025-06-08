@@ -86,6 +86,22 @@
 **Kod:** [folder](https://github.com/zezuul/ebiznes25/tree/main/task8)
 **Nagranie:** [folder](https://github.com/zezuul/ebiznes25/blob/main/demos/task8.mp4)
 
+# Zadanie 9: ChatGPT bot
+
+✅ **3.0 należy stworzyć po stronie serwerowej osobny serwis do łącznia z chatGPT do usługi chat** [Link do commita](https://github.com/zezuul/ebiznes25/commit/d3e5ef3783b6c17598166193f5370d53fff6a1bc)
+
+✅ **3.5 należy stworzyć interfejs frontowy dla użytkownika, który komunikuje się z serwisem; odpowiedzi powinny być wysyałen do frontendowego interfejsu** [Link do commita](https://github.com/zezuul/ebiznes25/commit/d3e5ef3783b6c17598166193f5370d53fff6a1bc)
+
+✅ **4.0 stworzyć listę 5 różnych otwarć oraz zamknięć rozmowy** [Link do commita]()
+
+❌ **4.5 filtrowanie po zagadnieniach związanych ze sklepem (np.
+ograniczenie się jedynie do ubrań oraz samego sklepu) do GPT**
+
+❌ **5.0 filtrowanie odpowiedzi po sentymencie**
+
+**Kod:** [folder](https://github.com/zezuul/ebiznes25/tree/main/task9)
+**Nagranie:** [folder](https://github.com/zezuul/ebiznes25/blob/main/demos/task9.mp4)
+
 ---
 
 ✅ done
