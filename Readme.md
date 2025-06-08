@@ -72,20 +72,34 @@
 **Kod:** [folder](https://github.com/zezuul/ebiznes25/tree/main/task5)
 **Nagranie:** [demo](https://github.com/zezuul/ebiznes25/blob/main/demos/task8.mp4)
 
-# Zadanie 6 Testy
+# Zadanie 6: Testy
 
 ✅ **3.0 Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium (Kotlin, Python, Java, JS, Go, Scala)** [Link do commita](https://github.com/zezuul/ebiznes25/commit/4d0a8f15dc956569d7c87ecbc2ee80bd618c55b1)
 
-❌ **3.5 wym2** [Link do commita 1]()
+❌ **3.5 wym2**
 
-❌ **4.0 wym3** [Link do commita 2]()
+❌ **4.0 wym3**
 
-❌ **4.5 wym4** [Link do commita 2]()
+❌ **4.5 wym4**
 
-❌ **5.0 wym5** [Link do commita 2]()
+❌ **5.0 wym5**
 
 **Kod:** [folder](https://github.com/zezuul/ebiznes25/blob/main/task6)
 **Wynik testu:** [png](https://github.com/zezuul/ebiznes25/blob/main/task6/result.png)
+
+# Zadanie 7: Sonar
+
+✅ **3.0 Należy dodać litera do odpowiedniego kodu aplikacji serwerowej w hookach gita** [Link do commita](https://github.com/zezuul/ebiznes25/commit/84eb1ad180954049c081cd44e3284ff9c6ab4fca)
+
+❌ **3.5 wym2**
+
+❌ **4.0 wym3**
+
+❌ **4.5 wym4**
+
+❌ **5.0 wym5**
+
+**Linki:** [rozwiązanie](https://github.com/zezuul/ebiznes25/blob/main/task7)
 
 # Zadanie 8: Oauth2
 
