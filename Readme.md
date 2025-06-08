@@ -72,6 +72,21 @@
 **Kod:** [folder](https://github.com/zezuul/ebiznes25/tree/main/task5)
 **Nagranie:** [demo](https://github.com/zezuul/ebiznes25/blob/main/demos/task8.mp4)
 
+# Zadanie 6 Testy
+
+✅ **3.0 Należy stworzyć 20 przypadków testowych w CypressJS lub Selenium (Kotlin, Python, Java, JS, Go, Scala)** [Link do commita](https://github.com/zezuul/ebiznes25/commit/4d0a8f15dc956569d7c87ecbc2ee80bd618c55b1)
+
+❌ **3.5 wym2** [Link do commita 1]()
+
+❌ **4.0 wym3** [Link do commita 2]()
+
+❌ **4.5 wym4** [Link do commita 2]()
+
+❌ **5.0 wym5** [Link do commita 2]()
+
+**Kod:** [folder](https://github.com/zezuul/ebiznes25/blob/main/task6)
+**Wynik testu:** [png](https://github.com/zezuul/ebiznes25/blob/main/task6/result.png)
+
 # Zadanie 8: Oauth2
 
 ✅ **3.0 logowanie przez aplikację serwerową (bez Oauth2)** [Link do commita]()
