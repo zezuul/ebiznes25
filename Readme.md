@@ -59,17 +59,18 @@
 
 # Zadanie 5: Frontend
 
-🚧 **3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w Produktach powinniśmy pobierać dane o produktach z aplikacji serwerowej** [Link do commita 1]()
+✅ **3.0 W ramach projektu należy stworzyć dwa komponenty: Produkty oraz Płatności; Płatności powinny wysyłać do aplikacji serwerowej dane, a w Produktach powinniśmy pobierać dane o produktach z aplikacji serwerowej** [Link do commita](https://github.com/zezuul/ebiznes25/commit/70e52a630388a7cd6d09d7e702c3ee7ce208cc30)
 
-🚧 **3.5 Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing** [Link do commita 1]()
+✅ **3.5 Należy dodać Koszyk wraz z widokiem; należy wykorzystać routing** [Link do commita](https://github.com/zezuul/ebiznes25/commit/70e52a630388a7cd6d09d7e702c3ee7ce208cc30)
 
-🚧 **4.0 Dane pomiędzy wszystkimi komponentami powinny być przesyłane za pomocą React hooks** [Link do commita 2]()
+❌ **4.0 Dane pomiędzy wszystkimi komponentami powinny być przesyłane za pomocą React hooks**
 
-🚧 **4.5 Należy dodać skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose** [Link do commita 2]()
+❌ **4.5 Należy dodać skrypt uruchamiający aplikację serwerową oraz kliencką na dockerze via docker-compose**
 
-🚧 **5.0 Należy wykorzystać axios’a oraz dodać nagłówki pod CORS** [Link do commita 2]()
+❌ **5.0 Należy wykorzystać axios’a oraz dodać nagłówki pod CORS**
 
-**Kod:** [folder]()
+**Kod:** [folder](https://github.com/zezuul/ebiznes25/tree/main/task5)
+**Nagranie:** [demo](https://github.com/zezuul/ebiznes25/blob/main/demos/task8.mp4)
 
 # Zadanie 8: Oauth2
 
@@ -84,7 +85,7 @@
 ❌ **5.0 wym5** [Link do commita 2]()
 
 **Kod:** [folder](https://github.com/zezuul/ebiznes25/tree/main/task8)
-**Nagranie:** [folder](https://github.com/zezuul/ebiznes25/blob/main/demos/task8.mp4)
+**Nagranie:** [demo](https://github.com/zezuul/ebiznes25/blob/main/demos/task8.mp4)
 
 # Zadanie 9: ChatGPT bot
 
