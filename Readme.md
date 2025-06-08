@@ -100,7 +100,23 @@ ograniczenie się jedynie do ubrań oraz samego sklepu) do GPT**
 ❌ **5.0 filtrowanie odpowiedzi po sentymencie**
 
 **Kod:** [folder](https://github.com/zezuul/ebiznes25/tree/main/task9)
-**Nagranie:** [folder](https://github.com/zezuul/ebiznes25/blob/main/demos/task9.mp4)
+**Nagranie:** [demo](https://github.com/zezuul/ebiznes25/blob/main/demos/task9.mp4)
+
+# Zadanie 10: Chmura/CI
+
+✅ **3.0 Należy stworzyć odpowiednie instancje po stronie chmury na dockerze** [Link do commita](https://github.com/zezuul/ebiznes25/commit/8d80fc2e94709b22c97387222ca21719a633eaf6)
+
+❌ **3.5 Stworzyć odpowiedni pipeline w Github Actions do budowania aplikacji**
+
+❌ **4.0 Dodać notyfikację mailową o zbudowaniu aplikacji**
+
+❌ **4.5 Dodać krok z deploymentem aplikacji serwerowej oraz klienckiej na chmurę**
+
+**5.0 Dodać uruchomienie regresyjnych testów automatycznych
+(funkcjonalnych) jako krok w Actions**
+
+**Kod:** [folder](https://github.com/zezuul/ebiznes25/tree/main/task10)
+**Nagranie:** [demo](https://github.com/zezuul/ebiznes25/blob/main/demos/task10.mp4)
 
 ---
 
