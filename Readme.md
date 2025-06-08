@@ -21,26 +21,27 @@
 
 ✅ **4.0 Należy stworzyć kontrolery do Kategorii oraz Koszyka + endpointy zgodnie z CRUD** [Link do commita 2]()
 
-🚧 **4.5 Należy aplikację uruchomić na dockerze (stworzyć obraz) oraz dodać skrypt uruchamiający aplikację via ngrok** [Link do commita 2]()
+❌ **4.5 Należy aplikację uruchomić na dockerze (stworzyć obraz) oraz dodać skrypt uruchamiający aplikację via ngrok** [Link do commita 2]()
 
-🚧 **5.0 Należy dodać konfigurację CORS dla dwóch hostów dla metod CRUD** [Link do commita 2]()
+❌ **5.0 Należy dodać konfigurację CORS dla dwóch hostów dla metod CRUD** [Link do commita 2]()
 
 **Kod:** [folder](https://github.com/zezuul/ebiznes25/tree/main/task2)
 **Nagranie:** [demo](https://github.com/zezuul/ebiznes25/tree/main/demos/task2.webm)
 
 # Zadanie 3: Kotlin
 
-🚧 **3.0 Należy stworzyć aplikację kliencką w Kotlinie we frameworku Ktor, która pozwala na przesyłanie wiadomości na platformę Discord** [Link do commita 1]()
+✅ **3.0 Należy stworzyć aplikację kliencką w Kotlinie we frameworku Ktor, która pozwala na przesyłanie wiadomości na platformę Discord** [Link do commita ](https://github.com/zezuul/ebiznes25/commit/7d442957678541509494b5d5f01f1effb39efcf9)
 
-🚧 **3.5 Aplikacja jest w stanie odbierać wiadomości użytkowników z platformy Discord skierowane do aplikacji (bota)** [Link do commita 1]()
+✅ **3.5 Aplikacja jest w stanie odbierać wiadomości użytkowników z platformy Discord skierowane do aplikacji (bota)** [Link do commita ](https://github.com/zezuul/ebiznes25/commit/7d442957678541509494b5d5f01f1effb39efcf9)
 
-🚧 **4.0 Zwróci listę kategorii na określone żądanie użytkownika** [Link do commita 2]()
+✅ **4.0 Zwróci listę kategorii na określone żądanie użytkownika** [Link do commita ](https://github.com/zezuul/ebiznes25/commit/7d442957678541509494b5d5f01f1effb39efcf9)
 
-🚧 **4.5 Zwróci listę produktów wg żądanej kategorii** [Link do commita 2]()
+✅ **4.5 Zwróci listę produktów wg żądanej kategorii** [Link do commita](https://github.com/zezuul/ebiznes25/commit/7d442957678541509494b5d5f01f1effb39efcf9)
 
-🚧 **5.0 Aplikacja obsłuży dodatkowo jedną z platform: Slack, Messenger, Webex** [Link do commita 2]()
+❌ **5.0 Aplikacja obsłuży dodatkowo jedną z platform: Slack, Messenger, Webex**
 
 **Kod:** [folder](https://github.com/zezuul/ebiznes25/tree/main/task3)
+**Nagranie:** [demo](https://github.com/zezuul/ebiznes25/blob/main/demos/task3.mp4)
 
 # Zadanie 4: Wzorce strukturalne - Echo (Go)
 
@@ -106,3 +107,13 @@
 🚧 **5.0 wym5** [Link do commita 2]()
 
 **Kod:** [folder]()
+
+##### Task 3
+
+Kotlin
+
+- aplikacja kliencka w kotlinie we frameworku Ktor ktr pozwala na przesyłanie wiadomości na platformę Discord
+- aplikacja jest w stanie odbierać wiadomości użytkowników z platformy discord skierowane do aplikacji (bota)
+- zwróci listę kategorii na określone żądanie użytkwonika
+- zwróci listę produktów wg żądanej kategorii
+- aplikacja obsłuży dodatkowo jedną z platform: slack/messenger/webex
